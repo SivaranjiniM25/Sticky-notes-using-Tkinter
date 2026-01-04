@@ -18,4 +18,5 @@ This mini project allows users to create, view, and delete notes using an easy-t
 - SQLite (Database)
 
 ---
+## Output
 <img width="400" height="664" alt="Sticky notes" src="https://github.com/user-attachments/assets/ec795652-8a3a-44f0-8f80-1603283dd8d2" />
